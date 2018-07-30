@@ -25,6 +25,7 @@ items:
  - cheshire137/hubnav
  - ryanflorence/github-plusone-extension
  - Mottie/GitHub-userscripts
+ - shaan1337/exclude-files-diffstats
 display_name: GitHub Browser Extensions
 created_by: leereilly
 ---
